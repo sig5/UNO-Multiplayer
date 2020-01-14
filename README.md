@@ -14,4 +14,4 @@ The rules left will be implemented soon.
 3.Improve the UI an dlet user enter his name which is till now denoted by userno.
 
 # Screenshot
-![alt text] (C:\Users\user\Pictures\Screenshots\Screenshot.png)
+![alt text] ("C:\Users\user\Pictures\Screenshots\Screenshot.png")
