@@ -13,5 +13,4 @@ The rules left will be implemented soon.
 2.Handle the case when a user leaves in between a game.
 3.Improve the UI an dlet user enter his name which is till now denoted by userno.
 
-# Screenshot
-![picture] (https://github.com/codersinghal/UNO-Multiplayer/blob/master/Screenshot.png)
+
