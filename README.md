@@ -14,4 +14,4 @@ The rules left will be implemented soon.
 3.Improve the UI an dlet user enter his name which is till now denoted by userno.
 
 # Screenshot
-![alt text] (https://github.com/codersinghal/UNO-Multiplayer/blob/master/Screenshot.png)
+![picture] (https://github.com/codersinghal/UNO-Multiplayer/blob/master/Screenshot.png)
