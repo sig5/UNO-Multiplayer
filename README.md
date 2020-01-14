@@ -13,4 +13,5 @@ The rules left will be implemented soon.
 2.Handle the case when a user leaves in between a game.
 3.Improve the UI an dlet user enter his name which is till now denoted by userno.
 
-
+# Screenshot
+![Screenshot](https://user-images.githubusercontent.com/48293384/72370281-e85eca80-3727-11ea-921d-1e9943775a1a.png)
